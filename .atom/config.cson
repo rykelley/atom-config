@@ -1,0 +1,14 @@
+"*":
+  "exception-reporting":
+    userId: "80ff48bf-9f8f-bd75-922b-c49977f478ee"
+  welcome:
+    showOnStartup: false
+  linter: {}
+  core:
+    themes: [
+      "one-dark-ui"
+      "atom-material-syntax"
+    ]
+  editor:
+    invisibles: {}
+  "one-dark-ui": {}
